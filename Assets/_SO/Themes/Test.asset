@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 127e2c81c200c4840adce60932f662c5, type: 3}
+  m_Name: Test
+  m_EditorClassIdentifier: 
+  groundSprite: {fileID: 893184689, guid: 728e0e05f40a6af46bbe9ee3dd75ea06, type: 3}
+  backgroundSprite: {fileID: -1134078374, guid: 728e0e05f40a6af46bbe9ee3dd75ea06, type: 3}
+  wallObj1Sprite: {fileID: -123136605, guid: 728e0e05f40a6af46bbe9ee3dd75ea06, type: 3}
+  wallObj2Sprite: {fileID: -1111122006, guid: 728e0e05f40a6af46bbe9ee3dd75ea06, type: 3}
+  trapPrefab: {fileID: 1569685088614732770, guid: 5c396ed5f644412468613199a1d9bbd3, type: 3}

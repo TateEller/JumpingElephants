@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 737c7e3963747744586847d80f6bc69e, type: 3}
+  m_Name: AppleTrophy
+  m_EditorClassIdentifier: 
+  trophyName: AppleTrophy
+  sprite: {fileID: 122940711, guid: 648b99a4d88013a46b818c8697a44915, type: 3}
+  trophieCost: 20
+  trophyDesc: This throphy adds another apple slot the to slot machine
